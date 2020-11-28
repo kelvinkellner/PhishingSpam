@@ -1,5 +1,5 @@
 # PhishingSpam
-A little program I whipped together to spam a fake phishing site with tons of fake information to slow down their servers, bury their real results among some fake ones, and ultimately, to waste their time as much as possible.
+A little program I whipped together to spam a fake phishing site with tons of fake information to slow down their servers, burying their real results among some fake ones, and ultimately, to waste their time as much as possible.
 
 All data fields are randomly generated:
 - First Names come from two lists, one each for the 1000 entries each of the most common male and female names.
